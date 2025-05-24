@@ -28,7 +28,7 @@
    Menggunakan looping do-while karena looping akan berjalan terus sampai user mengetik 'oke'
    Looping for untuk mencetak list genre dan judul film di dalam genre. 
  - Fungsi
-   Fungsi stdio untuk standar input dan output. Fungsi string yaitu strcmp untuk membandingkan dua string.
+   Fungsi main untuk standar input dan output. Fungsi string yaitu strcmp untuk membandingkan dua string.
    Fungsi listRekomendasi yang di dalamnya ada looping, agar bisa dipanggil secara berulang di main() secara berulang tanpa menulis kode yang sama. 
  - Array
    Menggunakan array 2 dimensi(kumpulan genre film) dan 3 dimensi(judul film berdasarkan genre) untuk menyimpan data terstruktur seperti list genre dan list judul film. 
